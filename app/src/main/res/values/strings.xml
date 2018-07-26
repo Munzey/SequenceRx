@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SequenceRx</string>
+    <string name="default_bpm">120</string>
+    <string name="track_a">kick</string>
+    <string name="track_b">snare</string>
+    <string name="track_c">hihat</string>
 </resources>
